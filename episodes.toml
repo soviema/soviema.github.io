@@ -1,4 +1,4 @@
-# The episodes, oldest first. Audio: the GitHub release "audio"; art: art/. Read by build_feed.py.
+# The episodes, oldest first. Audio: a path under the site (the audio-N repositories); art: art/. Read by build_feed.py.
 # #1-#8 and #3.а were moved from Spotify for Creators on 2026-10-28 with their GUIDs, dates and files unchanged.
 
 [[episode]]
@@ -13,7 +13,7 @@ duration = "01:06:31"
 explicit = true
 type = "full"
 image = "art/cds-ep01.jpg"
-audio = "cds-ep01.m4a"
+audio = "audio-1/cds-ep01.m4a"
 length = 64555620
 mime = "audio/x-m4a"
 
@@ -29,7 +29,7 @@ duration = "00:39:54"
 explicit = false
 type = "full"
 image = "art/cds-ep02.jpg"
-audio = "cds-ep02.m4a"
+audio = "audio-1/cds-ep02.m4a"
 length = 38722083
 mime = "audio/x-m4a"
 
@@ -45,7 +45,7 @@ duration = "01:25:39"
 explicit = true
 type = "full"
 image = "art/cds-ep03.jpg"
-audio = "cds-ep03.m4a"
+audio = "audio-1/cds-ep03.m4a"
 length = 83112297
 mime = "audio/x-m4a"
 
@@ -60,7 +60,7 @@ duration = "00:43:48"
 explicit = true
 type = "full"
 image = "art/cds-ep03a.jpg"
-audio = "cds-ep03a.m4a"
+audio = "audio-1/cds-ep03a.m4a"
 length = 42513814
 mime = "audio/x-m4a"
 
@@ -76,7 +76,7 @@ duration = "01:19:58"
 explicit = true
 type = "full"
 image = "art/cds-ep04.jpg"
-audio = "cds-ep04.m4a"
+audio = "audio-1/cds-ep04.m4a"
 length = 77599746
 mime = "audio/x-m4a"
 
@@ -92,7 +92,7 @@ duration = "00:53:58"
 explicit = true
 type = "full"
 image = "art/cds-ep05.jpg"
-audio = "cds-ep05.m4a"
+audio = "audio-1/cds-ep05.m4a"
 length = 52368106
 mime = "audio/x-m4a"
 
@@ -108,7 +108,7 @@ duration = "01:23:11"
 explicit = false
 type = "full"
 image = "art/cds-ep06.jpg"
-audio = "cds-ep06.m4a"
+audio = "audio-1/cds-ep06.m4a"
 length = 80734405
 mime = "audio/x-m4a"
 
@@ -124,7 +124,7 @@ duration = "00:44:57"
 explicit = false
 type = "full"
 image = "art/cds-ep07.jpg"
-audio = "cds-ep07.m4a"
+audio = "audio-1/cds-ep07.m4a"
 length = 43621102
 mime = "audio/x-m4a"
 
@@ -140,6 +140,6 @@ duration = "00:48:41"
 explicit = false
 type = "full"
 image = "art/cds-ep08.jpg"
-audio = "cds-ep08.m4a"
+audio = "audio-1/cds-ep08.m4a"
 length = 47248704
 mime = "audio/x-m4a"

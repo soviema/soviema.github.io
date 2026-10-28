@@ -2,8 +2,8 @@
 
     python3 build_feed.py
 
-Standard library only (Python 3.11+). The audio files are assets of the GitHub release named in
-show.toml (`audio_base`); the episode art and the show cover sit in art/ and are served by GitHub Pages.
+Standard library only (Python 3.11+). Everything is served by GitHub Pages under show.site: the episode art and
+the show cover from art/ here, the audio from the audio repositories (audio-1, ...), whose path each episode names.
 """
 import html
 import tomllib
@@ -33,7 +33,7 @@ def load() -> tuple[dict, list[dict]]:
     episodes = tomllib.loads((ROOT / "episodes.toml").read_text(encoding="utf-8"))["episode"]
     episodes.sort(key=lambda e: parsedate_to_datetime(e["published"]), reverse=True)
     for e in episodes:
-        e["audio_url"] = show["audio_base"] + e["audio"]
+        e["audio_url"] = show["site"] + e["audio"]
         e["image_url"] = show["site"] + e["image"]
     return show, episodes
 
@@ -44,7 +44,8 @@ def feed(show: dict, episodes: list[dict]) -> str:
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"'
-        ' xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">',
+        ' xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom"'
+        ' xmlns:content="http://purl.org/rss/1.0/modules/content/">',
         "<channel>",
         f"<title>{esc(show['title'])}</title>",
         f"<link>{esc(site)}</link>",
@@ -54,6 +55,7 @@ def feed(show: dict, episodes: list[dict]) -> str:
         f"<lastBuildDate>{format_datetime(datetime.now(timezone.utc), usegmt=True)}</lastBuildDate>",
         "<generator>build_feed.py</generator>",
         f'<atom:link href="{esc(show["feed"])}" rel="self" type="application/rss+xml"/>',
+        f"<itunes:new-feed-url>{esc(show['feed'])}</itunes:new-feed-url>",
         f"<image><url>{esc(cover)}</url><title>{esc(show['title'])}</title><link>{esc(site)}</link></image>",
         f"<itunes:author>{esc(show['author'])}</itunes:author>",
         f"<itunes:summary>{cdata(show['description'])}</itunes:summary>",

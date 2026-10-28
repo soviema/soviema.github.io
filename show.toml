@@ -18,7 +18,6 @@ type = "episodic"
 guid = "97b05a10-60cb-5bba-8ff8-87655e33b66b"
 # podcast:locked: other hosts may not import the feed without the owner's email check
 locked = true
-audio_base = "https://github.com/soviema/soviema.github.io/releases/download/audio/"
 
 [links]
 "Apple Podcasts" = "https://podcasts.apple.com/podcast/id1792834019"
