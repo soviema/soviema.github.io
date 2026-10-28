@@ -128,6 +128,7 @@ a {{ color: var(--link); }}
 ul {{ list-style: none; margin: 0; padding: 0; }}
 li {{ display: flex; gap: 16px; padding: 20px 0; border-top: 1px solid var(--line); }}
 li img {{ width: 88px; height: 88px; object-fit: cover; border-radius: 4px; flex: none; }}
+li > div {{ min-width: 0; overflow-wrap: anywhere; }}
 li p {{ margin: 0 0 8px; }}
 @media (max-width: 480px) {{ header {{ flex-direction: column; align-items: flex-start; }} li img {{ width: 64px; height: 64px; }} }}
 </style>
