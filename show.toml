@@ -13,8 +13,9 @@ category = "TV & Film"
 subcategory = "Film History"
 explicit = false
 type = "episodic"
-# podcast:guid: UUIDv5 of the show's first feed URL, anchor.fm/s/ff46bfcc/podcast/rss (Podcasting 2.0 rule)
-guid = "33325595-f9d0-512e-9e4f-9aa6e7656102"
+# podcast:guid: UUIDv5 of the show's first feed URL without the scheme, anchor.fm/s/ff46bfcc/podcast/rss,
+# in the "podcast" namespace ead4c236-bf58-58c6-a2c6-a6b28d128cb6 (Podcasting 2.0); Podcast Index holds the same value
+guid = "97b05a10-60cb-5bba-8ff8-87655e33b66b"
 # podcast:locked: other hosts may not import the feed without the owner's email check
 locked = true
 audio_base = "https://github.com/soviema/soviema.github.io/releases/download/audio/"

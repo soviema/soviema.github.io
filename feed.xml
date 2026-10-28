@@ -6,7 +6,7 @@
 <description><![CDATA[Беседы о советском кино]]></description>
 <language>ru</language>
 <copyright>Cahiers du Soviéma</copyright>
-<lastBuildDate>Wed, 28 Oct 2026 13:13:55 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 13:42:17 GMT</lastBuildDate>
 <generator>build_feed.py</generator>
 <atom:link href="https://soviema.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 <image><url>https://soviema.github.io/art/show.jpg</url><title>Cahiers du Soviéma</title><link>https://soviema.github.io/</link></image>
@@ -17,7 +17,7 @@
 <itunes:category text="TV &amp; Film"><itunes:category text="Film History"/></itunes:category>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<podcast:guid>33325595-f9d0-512e-9e4f-9aa6e7656102</podcast:guid>
+<podcast:guid>97b05a10-60cb-5bba-8ff8-87655e33b66b</podcast:guid>
 <podcast:locked owner="cahiers.du.soviema@gmail.com">yes</podcast:locked>
 <item>
 <title>#8 – Застава Ильича (ч.2)</title>
