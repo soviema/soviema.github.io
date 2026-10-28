@@ -1,0 +1,145 @@
+# The episodes, oldest first. Audio: the GitHub release "audio"; art: art/. Read by build_feed.py.
+# #1-#8 and #3.а were moved from Spotify for Creators on 2026-10-28 with their GUIDs, dates and files unchanged.
+
+[[episode]]
+key = "ep01"
+number = 1
+season = 1
+title = "#1 – Иван Грозный (ч. 1)"
+description = '''<p>Эпизод первый, в котором мы хотели обсудить фильм, а вместо этого ударились в воспоминания и разобрали вопросы периодизации истории Советского Союза.</p>'''
+published = "Sun, 29 Dec 2024 00:26:06 GMT"
+guid = "695faa95-cafc-454b-88f6-660db6793124"
+duration = "01:06:31"
+explicit = true
+type = "full"
+image = "art/cds-ep01.jpg"
+audio = "cds-ep01.m4a"
+length = 64555620
+mime = "audio/x-m4a"
+
+[[episode]]
+key = "ep02"
+number = 2
+season = 1
+title = "#2 – Иван Грозный (ч.2)"
+description = '''<p>Эпизод второй, в котором мы добрались до обсуждения фильма и наших о нем впечатлений.</p>'''
+published = "Fri, 03 Jan 2025 23:14:06 GMT"
+guid = "7834fe7d-71ca-4966-afe8-711035001ac1"
+duration = "00:39:54"
+explicit = false
+type = "full"
+image = "art/cds-ep02.jpg"
+audio = "cds-ep02.m4a"
+length = 38722083
+mime = "audio/x-m4a"
+
+[[episode]]
+key = "ep03"
+number = 3
+season = 1
+title = "#3 – Гараж"
+description = '''<p>Эпизод третий, в котором мы поговорили про гаражи и про советское общество эпохи застоя</p>'''
+published = "Fri, 24 Jan 2025 14:19:46 GMT"
+guid = "95a6af16-a649-4adb-b0e3-25db35a2d2ba"
+duration = "01:25:39"
+explicit = true
+type = "full"
+image = "art/cds-ep03.jpg"
+audio = "cds-ep03.m4a"
+length = 83112297
+mime = "audio/x-m4a"
+
+[[episode]]
+key = "ep03a"
+season = 1
+title = "#3.а – Карнавальная ночь"
+description = '''<p>Эпизод неканонический, в котором мы еще немного поговорили про Эльдара Рязанова и его дебютную полнометражную картину – фильм «Карнавальная ночь».</p>'''
+published = "Thu, 13 Mar 2025 15:26:02 GMT"
+guid = "ef22e9bb-a016-4649-9b03-6744300e37df"
+duration = "00:43:48"
+explicit = true
+type = "full"
+image = "art/cds-ep03a.jpg"
+audio = "cds-ep03a.m4a"
+length = 42513814
+mime = "audio/x-m4a"
+
+[[episode]]
+key = "ep04"
+number = 4
+season = 1
+title = "#4 – Окраина"
+description = '''<p>Эпизод четвертый, в котором мы поговорили про фильм &quot;Окраина&quot; и советское кино перед окончательным торжеством социалистического реализма</p>'''
+published = "Mon, 24 Mar 2025 15:22:59 GMT"
+guid = "268b094a-3dd8-4387-a700-6d4266fb82d7"
+duration = "01:19:58"
+explicit = true
+type = "full"
+image = "art/cds-ep04.jpg"
+audio = "cds-ep04.m4a"
+length = 77599746
+mime = "audio/x-m4a"
+
+[[episode]]
+key = "ep05"
+number = 5
+season = 1
+title = "#5 – Листопад (ч.1)"
+description = '''<p>Эпизод пятый, в котором мы должны были говорить про фильм "Листопад", а говорили про 1966 год в истории кино и взгляды Иоселиани на киноискусство.</p>'''
+published = "Thu, 26 Jun 2025 19:53:12 GMT"
+guid = "239de22e-bc15-465d-b168-1364c4d6bca3"
+duration = "00:53:58"
+explicit = true
+type = "full"
+image = "art/cds-ep05.jpg"
+audio = "cds-ep05.m4a"
+length = 52368106
+mime = "audio/x-m4a"
+
+[[episode]]
+key = "ep06"
+number = 6
+season = 1
+title = "#6 – Листопад (ч.2)"
+description = '''<p>Эпизод шестой, в котором мы поговорили наконец про фильм "Листопад".</p>'''
+published = "Sun, 27 Jul 2025 07:01:35 GMT"
+guid = "5a93bba8-c1f8-467e-8799-e53dab1d85a4"
+duration = "01:23:11"
+explicit = false
+type = "full"
+image = "art/cds-ep06.jpg"
+audio = "cds-ep06.m4a"
+length = 80734405
+mime = "audio/x-m4a"
+
+[[episode]]
+key = "ep07"
+number = 7
+season = 1
+title = "#7 – Застава Ильича (ч.1)"
+description = '''<p>Эпизод 7, в котором мы начали разговор о проекте Марлена Хуциева и Геннадия Шпаликова – двух ключевых фигур для кинематографа &quot;Оттепели&quot;, – картине &quot;Застава Ильича&quot;. Это первый из трех эпизодов, посвященных фильму.</p>'''
+published = "Tue, 02 Sep 2025 12:48:03 GMT"
+guid = "6c999794-d75a-4d3a-bd16-c31738234fe1"
+duration = "00:44:57"
+explicit = false
+type = "full"
+image = "art/cds-ep07.jpg"
+audio = "cds-ep07.m4a"
+length = 43621102
+mime = "audio/x-m4a"
+
+[[episode]]
+key = "ep08"
+number = 8
+season = 1
+title = "#8 – Застава Ильича (ч.2)"
+description = '''<p>Эпизод 8, в котором мы продолжили разговор о фильме Марлена Хуциева и Геннадия Шпаликова &quot;Застава Ильича&quot;.</p>'''
+published = "Wed, 29 Oct 2025 20:16:14 GMT"
+guid = "b069a5e5-ca01-4f98-ab36-c00fa2722663"
+duration = "00:48:41"
+explicit = false
+type = "full"
+image = "art/cds-ep08.jpg"
+audio = "cds-ep08.m4a"
+length = 47248704
+mime = "audio/x-m4a"

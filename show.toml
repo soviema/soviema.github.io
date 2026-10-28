@@ -1,0 +1,24 @@
+# The show's metadata, read by build_feed.py.
+title = "Cahiers du Soviéma"
+description = "Беседы о советском кино"
+language = "ru"
+author = "Cahiers du Soviéma"
+copyright = "Cahiers du Soviéma"
+owner_name = "Cahiers du Soviéma"
+owner_email = "cahiers.du.soviema@gmail.com"
+site = "https://soviema.github.io/"
+feed = "https://soviema.github.io/feed.xml"
+image = "art/show.jpg"
+category = "TV & Film"
+subcategory = "Film History"
+explicit = false
+type = "episodic"
+# podcast:guid: UUIDv5 of the show's first feed URL, anchor.fm/s/ff46bfcc/podcast/rss (Podcasting 2.0 rule)
+guid = "33325595-f9d0-512e-9e4f-9aa6e7656102"
+# podcast:locked: other hosts may not import the feed without the owner's email check
+locked = true
+audio_base = "https://github.com/soviema/soviema.github.io/releases/download/audio/"
+
+[links]
+"Apple Podcasts" = "https://podcasts.apple.com/podcast/id1792834019"
+"Spotify" = "https://open.spotify.com/show/52ktXlF8Up8RuxAKpeDVtl"

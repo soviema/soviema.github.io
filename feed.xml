@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Cahiers du Soviéma</title>
+<link>https://soviema.github.io/</link>
+<description><![CDATA[Беседы о советском кино]]></description>
+<language>ru</language>
+<copyright>Cahiers du Soviéma</copyright>
+<lastBuildDate>Wed, 28 Oct 2026 13:13:55 GMT</lastBuildDate>
+<generator>build_feed.py</generator>
+<atom:link href="https://soviema.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+<image><url>https://soviema.github.io/art/show.jpg</url><title>Cahiers du Soviéma</title><link>https://soviema.github.io/</link></image>
+<itunes:author>Cahiers du Soviéma</itunes:author>
+<itunes:summary><![CDATA[Беседы о советском кино]]></itunes:summary>
+<itunes:owner><itunes:name>Cahiers du Soviéma</itunes:name><itunes:email>cahiers.du.soviema@gmail.com</itunes:email></itunes:owner>
+<itunes:image href="https://soviema.github.io/art/show.jpg"/>
+<itunes:category text="TV &amp; Film"><itunes:category text="Film History"/></itunes:category>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<podcast:guid>33325595-f9d0-512e-9e4f-9aa6e7656102</podcast:guid>
+<podcast:locked owner="cahiers.du.soviema@gmail.com">yes</podcast:locked>
+<item>
+<title>#8 – Застава Ильича (ч.2)</title>
+<description><![CDATA[<p>Эпизод 8, в котором мы продолжили разговор о фильме Марлена Хуциева и Геннадия Шпаликова &quot;Застава Ильича&quot;.</p>]]></description>
+<link>https://soviema.github.io/#ep08</link>
+<guid isPermaLink="false">b069a5e5-ca01-4f98-ab36-c00fa2722663</guid>
+<pubDate>Wed, 29 Oct 2025 20:16:14 GMT</pubDate>
+<enclosure url="https://github.com/soviema/soviema.github.io/releases/download/audio/cds-ep08.m4a" length="47248704" type="audio/x-m4a"/>
+<itunes:duration>00:48:41</itunes:duration>
+<itunes:image href="https://soviema.github.io/art/cds-ep08.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>8</itunes:episode>
+<itunes:season>1</itunes:season>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>#7 – Застава Ильича (ч.1)</title>
+<description><![CDATA[<p>Эпизод 7, в котором мы начали разговор о проекте Марлена Хуциева и Геннадия Шпаликова – двух ключевых фигур для кинематографа &quot;Оттепели&quot;, – картине &quot;Застава Ильича&quot;. Это первый из трех эпизодов, посвященных фильму.</p>]]></description>
+<link>https://soviema.github.io/#ep07</link>
+<guid isPermaLink="false">6c999794-d75a-4d3a-bd16-c31738234fe1</guid>
+<pubDate>Tue, 02 Sep 2025 12:48:03 GMT</pubDate>
+<enclosure url="https://github.com/soviema/soviema.github.io/releases/download/audio/cds-ep07.m4a" length="43621102" type="audio/x-m4a"/>
+<itunes:duration>00:44:57</itunes:duration>
+<itunes:image href="https://soviema.github.io/art/cds-ep07.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>7</itunes:episode>
+<itunes:season>1</itunes:season>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>#6 – Листопад (ч.2)</title>
+<description><![CDATA[<p>Эпизод шестой, в котором мы поговорили наконец про фильм "Листопад".</p>]]></description>
+<link>https://soviema.github.io/#ep06</link>
+<guid isPermaLink="false">5a93bba8-c1f8-467e-8799-e53dab1d85a4</guid>
+<pubDate>Sun, 27 Jul 2025 07:01:35 GMT</pubDate>
+<enclosure url="https://github.com/soviema/soviema.github.io/releases/download/audio/cds-ep06.m4a" length="80734405" type="audio/x-m4a"/>
+<itunes:duration>01:23:11</itunes:duration>
+<itunes:image href="https://soviema.github.io/art/cds-ep06.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>6</itunes:episode>
+<itunes:season>1</itunes:season>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>#5 – Листопад (ч.1)</title>
+<description><![CDATA[<p>Эпизод пятый, в котором мы должны были говорить про фильм "Листопад", а говорили про 1966 год в истории кино и взгляды Иоселиани на киноискусство.</p>]]></description>
+<link>https://soviema.github.io/#ep05</link>
+<guid isPermaLink="false">239de22e-bc15-465d-b168-1364c4d6bca3</guid>
+<pubDate>Thu, 26 Jun 2025 19:53:12 GMT</pubDate>
+<enclosure url="https://github.com/soviema/soviema.github.io/releases/download/audio/cds-ep05.m4a" length="52368106" type="audio/x-m4a"/>
+<itunes:duration>00:53:58</itunes:duration>
+<itunes:image href="https://soviema.github.io/art/cds-ep05.jpg"/>
+<itunes:explicit>true</itunes:explicit>
+<itunes:episode>5</itunes:episode>
+<itunes:season>1</itunes:season>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>#4 – Окраина</title>
+<description><![CDATA[<p>Эпизод четвертый, в котором мы поговорили про фильм &quot;Окраина&quot; и советское кино перед окончательным торжеством социалистического реализма</p>]]></description>
+<link>https://soviema.github.io/#ep04</link>
+<guid isPermaLink="false">268b094a-3dd8-4387-a700-6d4266fb82d7</guid>
+<pubDate>Mon, 24 Mar 2025 15:22:59 GMT</pubDate>
+<enclosure url="https://github.com/soviema/soviema.github.io/releases/download/audio/cds-ep04.m4a" length="77599746" type="audio/x-m4a"/>
+<itunes:duration>01:19:58</itunes:duration>
+<itunes:image href="https://soviema.github.io/art/cds-ep04.jpg"/>
+<itunes:explicit>true</itunes:explicit>
+<itunes:episode>4</itunes:episode>
+<itunes:season>1</itunes:season>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>#3.а – Карнавальная ночь</title>
+<description><![CDATA[<p>Эпизод неканонический, в котором мы еще немного поговорили про Эльдара Рязанова и его дебютную полнометражную картину – фильм «Карнавальная ночь».</p>]]></description>
+<link>https://soviema.github.io/#ep03a</link>
+<guid isPermaLink="false">ef22e9bb-a016-4649-9b03-6744300e37df</guid>
+<pubDate>Thu, 13 Mar 2025 15:26:02 GMT</pubDate>
+<enclosure url="https://github.com/soviema/soviema.github.io/releases/download/audio/cds-ep03a.m4a" length="42513814" type="audio/x-m4a"/>
+<itunes:duration>00:43:48</itunes:duration>
+<itunes:image href="https://soviema.github.io/art/cds-ep03a.jpg"/>
+<itunes:explicit>true</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>#3 – Гараж</title>
+<description><![CDATA[<p>Эпизод третий, в котором мы поговорили про гаражи и про советское общество эпохи застоя</p>]]></description>
+<link>https://soviema.github.io/#ep03</link>
+<guid isPermaLink="false">95a6af16-a649-4adb-b0e3-25db35a2d2ba</guid>
+<pubDate>Fri, 24 Jan 2025 14:19:46 GMT</pubDate>
+<enclosure url="https://github.com/soviema/soviema.github.io/releases/download/audio/cds-ep03.m4a" length="83112297" type="audio/x-m4a"/>
+<itunes:duration>01:25:39</itunes:duration>
+<itunes:image href="https://soviema.github.io/art/cds-ep03.jpg"/>
+<itunes:explicit>true</itunes:explicit>
+<itunes:episode>3</itunes:episode>
+<itunes:season>1</itunes:season>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>#2 – Иван Грозный (ч.2)</title>
+<description><![CDATA[<p>Эпизод второй, в котором мы добрались до обсуждения фильма и наших о нем впечатлений.</p>]]></description>
+<link>https://soviema.github.io/#ep02</link>
+<guid isPermaLink="false">7834fe7d-71ca-4966-afe8-711035001ac1</guid>
+<pubDate>Fri, 03 Jan 2025 23:14:06 GMT</pubDate>
+<enclosure url="https://github.com/soviema/soviema.github.io/releases/download/audio/cds-ep02.m4a" length="38722083" type="audio/x-m4a"/>
+<itunes:duration>00:39:54</itunes:duration>
+<itunes:image href="https://soviema.github.io/art/cds-ep02.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>2</itunes:episode>
+<itunes:season>1</itunes:season>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>#1 – Иван Грозный (ч. 1)</title>
+<description><![CDATA[<p>Эпизод первый, в котором мы хотели обсудить фильм, а вместо этого ударились в воспоминания и разобрали вопросы периодизации истории Советского Союза.</p>]]></description>
+<link>https://soviema.github.io/#ep01</link>
+<guid isPermaLink="false">695faa95-cafc-454b-88f6-660db6793124</guid>
+<pubDate>Sun, 29 Dec 2024 00:26:06 GMT</pubDate>
+<enclosure url="https://github.com/soviema/soviema.github.io/releases/download/audio/cds-ep01.m4a" length="64555620" type="audio/x-m4a"/>
+<itunes:duration>01:06:31</itunes:duration>
+<itunes:image href="https://soviema.github.io/art/cds-ep01.jpg"/>
+<itunes:explicit>true</itunes:explicit>
+<itunes:episode>1</itunes:episode>
+<itunes:season>1</itunes:season>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+</channel>
+</rss>
