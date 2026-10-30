@@ -6,7 +6,7 @@
 <description><![CDATA[Беседы о советском кино]]></description>
 <language>ru</language>
 <copyright>Cahiers du Soviéma</copyright>
-<lastBuildDate>Fri, 30 Oct 2026 13:17:05 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 22:36:56 GMT</lastBuildDate>
 <generator>build_feed.py</generator>
 <atom:link href="https://soviema.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 <itunes:new-feed-url>https://soviema.github.io/feed.xml</itunes:new-feed-url>
@@ -26,7 +26,7 @@
 <link>https://soviema.github.io/#ep09</link>
 <guid isPermaLink="false">d75912d1-6d1e-4c2c-9342-23f49f12e6a6</guid>
 <pubDate>Fri, 30 Oct 2026 13:17:05 GMT</pubDate>
-<enclosure url="https://soviema.github.io/audio-1/cds-ep09.m4a" length="85914517" type="audio/x-m4a"/>
+<enclosure url="https://soviema.github.io/audio-1/cds-ep09-v2.m4a" length="85914469" type="audio/x-m4a"/>
 <itunes:duration>01:57:38</itunes:duration>
 <itunes:image href="https://soviema.github.io/art/cds-ep09.jpg"/>
 <itunes:explicit>true</itunes:explicit>
