@@ -143,3 +143,19 @@ image = "art/cds-ep08.jpg"
 audio = "audio-1/cds-ep08.m4a"
 length = 47248704
 mime = "audio/x-m4a"
+
+[[episode]]
+key = "ep09"
+number = 9
+season = 1
+title = "#9 – Застава Ильича (ч.3)"
+description = '''<p>Эпизод 9, в котором мы в третий и последний раз поговорили о фильме Марлена Хуциева и Геннадия Шпаликова "Застава Ильича".</p>'''
+published = "Fri, 30 Oct 2026 13:17:05 GMT"
+guid = "d75912d1-6d1e-4c2c-9342-23f49f12e6a6"
+duration = "01:57:38"
+explicit = true
+type = "full"
+image = "art/cds-ep09.jpg"
+audio = "audio-1/cds-ep09.m4a"
+length = 85914517
+mime = "audio/x-m4a"
